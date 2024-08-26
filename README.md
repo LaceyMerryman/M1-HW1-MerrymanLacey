@@ -1,1 +1,5 @@
-# M1-HW1-MerrymanLacey
+# Assignment 1
+## Hobbies
+- Art
+- Photography
+- Rock Climbing
